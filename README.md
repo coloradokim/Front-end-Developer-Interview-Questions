@@ -179,10 +179,17 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 ```javascript
 var foo = 10 + '20';
 ```
+Answer: The value of `foo` is 'undefined' because 10 is a number, and 20 is a string. 
 
 *Question: How would you make this work?*
 ```javascript
 add(2, 5); // 7
+```
+Answer: 
+```function add (a,b) {
+  return a + b;
+}```
+
 add(2)(5); // 7
 ```
 
