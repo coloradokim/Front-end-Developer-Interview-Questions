@@ -172,6 +172,10 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
   * ETag
   * X-Frame-Options
 * What are HTTP actions? List all HTTP actions that you know, and explain them.
+  *GET = retrieves information from the source you specifiy (often an API).
+  *POST = sends new information to the source
+  *PUT = updates existing information in the source
+  *DELETE = removes existing information from the source
 
 #### Coding Questions:
 
