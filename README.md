@@ -63,6 +63,7 @@ This file contains a number of front-end interview questions that can be used wh
 #### CSS Questions:
 
 * What is the difference between classes and ID's in CSS?
+
  Answer: IDs can only be used for one HTML element/tag, where as classes can apply to multiple elements. 
 * What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 * Describe Floats and how they work.
